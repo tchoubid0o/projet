@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/java/hei/devweb/controllers/ImageServlet.java=ISO-8859-1
+encoding//src/main/java/hei/devweb/dao/impl/AjaxContactDaoImpl.java=ISO-8859-1
+encoding//src/main/java/hei/devweb/dao/impl/AjaxNewsletterDaoImpl.java=ISO-8859-1
+encoding//src/main/resources=UTF-8
+encoding//src/main/webapp/WEB-INF/pages/header.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/pages/sidebar.jsp=UTF-8
+encoding//src/test/java=UTF-8
+encoding//src/test/resources=UTF-8
+encoding/<project>=UTF-8
