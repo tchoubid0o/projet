@@ -1,0 +1,87 @@
+#head_center{
+	width: auto;
+}
+
+#content #left_search_form{
+			display:none;
+		}
+
+.width1000{
+	text-align: center;
+}
+
+#content #right {
+	margin-left: 0px;
+	width: 100%;
+	margin-top: 25px;
+}
+
+#right .right_content {
+	margin: 20px;
+}
+
+#content #left
+	{
+		float: none;
+	}
+	
+		#content #left .left_menu{
+			background: none;
+			width: auto;
+			border: none;
+			box-shadow: none;
+		}
+		
+		#content #left #left_recent_image{
+			display: none;
+		}
+			
+			#content #left .left_menu .left_menu_title{
+				border-left: 3px solid #2db3e8;
+				border-bottom: 1px solid #2db3e8;
+			}
+		
+		#content #left a
+		{
+			float: left;
+			width: 19%;
+			margin: 0 auto;
+			margin-bottom: 5px;
+			margin-right: 1%;
+			overflow: hidden;
+		}
+		
+			#content .left_menu a:hover{
+				background: url('images/hover_menu.jpg') no-repeat;
+				color: white;	
+				text-align: center;
+				padding-left: 0px;
+			}
+			
+#col1_footer{
+	display: none;	
+}
+
+	#col1_newsletter{
+		display: none;
+	}
+	#footer-content{
+		width: 315px;
+	}
+	#registername,#loginname,#deconnexionname,#profilname{
+		display: none;
+	}
+	#infos_site{
+		display: none;
+	}
+	#copyright{
+		float: none;
+	}
+	#img_valid{
+		float: none;
+		margin-top: 15px;
+	}
+	
+#goTop{
+	display: none !important;
+}
